@@ -1,0 +1,31 @@
+.main{
+    width: 288px;
+    height: 382px;
+    background-color: black;
+    border-radius: 21px;
+    display: grid;
+    justify-items: start;
+    align-content: center;
+}
+.form-control {
+    width: 264px;
+    height: 64px;
+    border-radius: 23px;
+    background-color:rgb(255, 255, 255);
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    color: aliceblue;
+    border-radius: 31px;
+    font-size: 17px;
+    
+   
+}
+#zero{
+    width: 124px;
+    border-radius: 50px;
+
+}
+
+
